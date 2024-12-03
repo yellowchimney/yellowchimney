@@ -4,8 +4,11 @@ I've taken a couple of courses with Code First Girls in Python and SQL
 and completed an intense Northcoders BootCamp.
 
 🍰 I’m currently working on AdventOfCode repo, getting into Christmas cheer
+
 🍫 I’m currently studying for AWS certification exam
+
 🍪 I’m happy to collaborate on any DE projects, especially  if they involve ETL and/or APIs
+
 🧁 Fun fact - I use sweet emoji because I used to be a pastry chef for 10 years
 
 
