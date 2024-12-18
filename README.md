@@ -5,7 +5,7 @@ and completed an intense Northcoders BootCamp.
 
 🍰 I’m currently working on AdventOfCode repo, getting into Christmas cheer
 
-🍫 I’m currently studying for AWS certification exam
+🍫 Studying hard for my first AWS certification exam
 
 🍪 I’m happy to collaborate on any DE projects, especially  if they involve ETL and/or APIs
 
