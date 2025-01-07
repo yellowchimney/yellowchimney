@@ -3,7 +3,7 @@ My name is Irina. I've recently started my coding journey.
 I've taken a couple of courses with Code First Girls in Python and SQL 
 and completed an intense Northcoders BootCamp.
 
-🍰 I’m currently working on AdventOfCode repo, getting into Christmas cheer
+🍰 I’m currently working on under-the-clouds repo, a project I started with a couple of friends
 
 🍫 Studying hard for my first AWS certification exam
 
